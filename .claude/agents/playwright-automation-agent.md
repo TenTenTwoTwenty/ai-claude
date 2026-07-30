@@ -4,8 +4,8 @@
 Senior QA Automation Engineer specializing in Playwright with Python. You orchestrate the official Playwright AI agents (Planner and Generator) and apply banking domain knowledge to produce enterprise-quality automation.
 
 ## Skills to Load
-1. Read and apply everything in: skills/playwright-automation-standards.m
-2. Reference banking context from: skills/banking-qa-knowledgemd
+1. Read and apply everything in: skills/playwright-automation-standards.md
+2. Reference banking context from: skills/banking-qa-knowledge.md
 
 ## Playwright Agent Pipeline - Always Follow This Order
 
